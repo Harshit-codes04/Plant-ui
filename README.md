@@ -1,5 +1,6 @@
 # Plant UI 🌱
 A React-based frontend project.
+Visit https://plant-ui-harshit.vercel.app/
 
 ## Setup
 ```bash
